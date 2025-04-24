@@ -1,4 +1,3 @@
-# house-price-predictor
 # House Price Predictor
 
 A Django web application that predicts house prices based on house size using a linear regression model.
@@ -43,7 +42,7 @@ The linear regression model was trained on housing data with the following featu
 
 <table>
   <tr>
-    <td><img src="house_price_predictor.png" width="800"/></td>
+    <td><img src="predictor/static/house_price_predictor.png" width="800"/></td>
   </tr>
 </table>
 
