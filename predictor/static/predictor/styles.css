@@ -1,0 +1,16 @@
+body {
+    background-color: #dee2e5;
+    font-family: "Satoshi", sans-serif;
+}
+
+.card {
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.card-header {
+    font-weight: bold;
+}
+
+.text-success {
+    font-weight: bold;
+}
